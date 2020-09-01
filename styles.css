@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header#header {
+    padding: 100px 0;
+}
+
+
+.header-rigth h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 107.19%;
+}
+
+.header-rigth h4 {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 115.69%;
+color: #6C63FF;
+}
+
+.icons i{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.navbar{
+    background: white !important;
+}
+a.navbar-brand {
+    FONT-WEIGHT: 800;
+    font-size: 30px;
+}
+
+
+li.nav-item {
+    font-size: 12px;
+}
+
+
+
+.set-left h2{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 107.19%;
+color: #3F3D56;
+
+}
+
+
+    .btn {
+        color: #fff !important;
+        background-color: #4d42ff !important;
+        border-radius: 10px !important;
+    }
+
+
+    .card{
+        background: #FAFAFA !important;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.25) !important;
+        border-radius: 10px !important;
+        border: 1px solid rgba(255, 255, 255, 0) !important;
+    }
+
+
+#trabajos1{
+    padding: 100px 0;
+    background: #F2F2F2;
+    margin: 50px 0;
+}
+
+.espaciotrabajos img{
+   padding:20px 0;
+}
+
+
+
+#cliente{
+    height: 200px;
+}
+
+
+#footer{
+    background: #3F3D56 !important;
+}
+
+.footer-text{
+    padding:30px;
+    color: white;
+}
+.footer-text h4{
+    font-size: 12px;
+    font-weight: 700;
+}
